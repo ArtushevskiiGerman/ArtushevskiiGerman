@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArtushevskiiGerman&theme=github-compact	)](https://github.com/ArtushevskiiGerman/github-readme-activity-graph)
 <!--
 **ArtushevskiiGerman/ArtushevskiiGerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
