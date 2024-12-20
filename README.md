@@ -13,7 +13,7 @@
 
 <h1 align="center">
   <a>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArtushevskiiGerman&bg_color=222423&color=ffffff&line=948a04&point=047594&hide_border=true&custom_title=GitHub%20Commits%20Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HermanArtushevskyi&bg_color=222423&color=ffffff&line=948a04&point=047594&hide_border=true&custom_title=GitHub%20Commits%20Graph"/>
   </a>
 </h1>
 
